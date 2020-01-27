@@ -1,15 +1,19 @@
 {
   "name": "hexletpractice",
   "version": "0.0.1",
+  "homepage": "https://github.com/Dexter-Freeman/HexletPractice",
   "description": "It's Dexter Freeman's practice on Hexlet.io",
   "main": "index.js",
   "scripts": {
-    "test": "tests"
+    "test": "jest"
   },
   "keywords": [
     "JavaScript"
   ],
   "author": "Dexter Freeman",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }
