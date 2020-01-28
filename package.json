@@ -5,7 +5,8 @@
   "description": "It's Dexter Freeman's practice on Hexlet.io",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "keywords": [
     "JavaScript"
